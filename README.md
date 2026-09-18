@@ -9,14 +9,12 @@ It includes an integrated text-to-speech player, accessible book navigation, rea
 ReadAccess currently supports TXT, EPUB, and text-based PDF books and is being prepared for release on Google Play.
 The application is a proprietary project, while its public repository contains project information and documentation.
 [Learn more about ReadAccess](https://github.com/Makenann/ReadAccess)
----
 ### WorldBoxAccess
 WorldBoxAccess adds extensive screen-reader accessibility to WorldBox.
 It provides nonvisual access to major game systems through keyboard navigation and spoken feedback, including world exploration, map navigation, powers, creatures, cities, kingdoms, saves, events, inspect systems, editors, and other gameplay interfaces.
 The goal is not to replace the original game with a simplified accessible interface, but to expose the game's real systems so blind players can interact with them directly.
 WorldBoxAccess is free and open source.
 [View WorldBoxAccess](https://github.com/Makenann/WorldBoxAccess)
----
 ### FtlAccess
 FtlAccess is a screen-reader accessibility mod for FTL: Faster Than Light.
 It provides blind players with access to major gameplay systems including crew management, ship rooms and doors, weapons, targeting, combat information, stores, navigation, and other game state.
