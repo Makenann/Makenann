@@ -23,5 +23,5 @@ I'm currently working on:
 * Accessibility for mainstream PC games
 * Screen-reader integration and nonvisual navigation
 * AI-assisted accessibility development
-# Contact
+## Contact
 For accessibility projects, collaboration, testing, or related work, you can contact me through GitHub.
